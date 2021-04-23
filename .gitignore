@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+screenshot*
+tmp/
+reports/
+*.html
+.rvmrc*
+execution_log.json
+Gemfile.lock
+.git
+.byebug_history
+.idea/
+.bundle
+.vscode/
+*.xlsx
